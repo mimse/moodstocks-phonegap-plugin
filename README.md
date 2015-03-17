@@ -1,10 +1,7 @@
 ## Moodstocks SDK - PhoneGap Plugin
 
-This repository contains necessary resource for you to install Moodstocks
-PhoneGap plugin via [PhoneGap CLI](http://docs.phonegap.com/en/3.0.0/guide_cli_index.md.html).
+**This plugin is no more maintained.**
 
-Follow our [tutorial](https://moodstocks.com/docs/phonegap/using-the-moodstocks-sdk-in-your-phonegap-application/) to get Moodstocks PhoneGap plugin working in your project!
+As an alternative there is a community-driven project that you may find helpful.
 
-## Copyright
-
-Copyright (c) 2014 [Moodstocks SAS](http://www.moodstocks.com)
+Get it [here](https://github.com/thomasforth/MS4Plugin).
